@@ -1,0 +1,339 @@
+District,Projection,Region,LPC,CPC,NDP,GPC,PPC,BQ,IND
+10001 Avalon,Safe LPC,Newfoundland,49,24,21,2,3,0,0
+10002 Bonavista–Burin–Trinity,Safe LPC,Newfoundland,60,29,8,2,0,0,0
+10003 Coast of Bays–Central–Notre Dame,Likely LPC,Newfoundland,56,34,8,2,0,0,0
+10004 Labrador,Likely LPC,Newfoundland,54,28,16,2,0,0,0
+10005 Long Range Mountains,Safe LPC,Newfoundland,56,28,12,4,0,0,0
+10006 St. John's East,Toss up,Newfoundland,37,19,40,2,0,0,0
+10007 St. John's South–Mount Pearl,Leaning LPC,Newfoundland,42,18,33,4,2,0,0
+11001 Cardigan,Likely LPC,PEI,41,24,8,26,0,0,0
+11002 Charlottetown,Likely LPC,PEI,39,21,14,25,0,0,0
+11003 Egmont,Leaning LPC,PEI,40,32,15,12,0,0,0
+11004 Malpeque,Likely LPC,PEI,42,23,11,24,0,0,0
+12001 Cape Breton–Canso,Toss up,NovaScotia,33,33,15,14,3,0,0
+12002 Central Nova,Toss up,NovaScotia,34,35,15,13,2,0,0
+12003 Cumberland–Colchester,Likely LPC,NovaScotia,44,33,9,11,2,0,0
+12004 Dartmouth–Cole Harbour,Leaning LPC,NovaScotia,38,16,31,12,2,0,0
+12005 Halifax,Toss up,NovaScotia,38,12,35,12,2,0,0
+12006 Halifax West,Safe LPC,NovaScotia,45,22,18,14,0,0,0
+12007 Kings–Hants,Safe LPC,NovaScotia,47,24,11,14,3,0,0
+12008 Sackville–Preston–Chezzetcook,Toss up,NovaScotia,35,18,32,13,2,0,0
+12009 South Shore–St. Margarets,Likely LPC,NovaScotia,40,28,19,8,4,0,0
+12010 Sydney–Victoria,Toss up,NovaScotia,31,31,23,11,0,0,3
+12011 West Nova,Toss up,NovaScotia,35,38,12,14,0,0,0
+13001 Acadie–Bathurst,Toss up,NewBrunswick,37,12,35,15,0,0,0
+13002 Beauséjour,Safe LPC,NewBrunswick,44,14,16,21,4,0,0
+13003 Fredericton,Toss up,NewBrunswick,31,30,11,25,1,0,0
+13004 Fundy Royal,Toss up,NewBrunswick,32,34,15,13,6,0,0
+13005 Madawaska–Restigouche,Likely LPC,NewBrunswick,44,19,25,11,0,0,0
+13006 Miramichi–Grand Lake,Toss up,NewBrunswick,33,34,12,11,8,0,0
+13007 Moncton–Riverview–Dieppe,Likely LPC,NewBrunswick,40,24,16,16,4,0,0
+13008 New Brunswick Southwest,Toss up,NewBrunswick,32,34,11,16,6,0,0
+13009 Saint John–Rothesay,Leaning LPC,NewBrunswick,37,31,15,11,5,0,0
+13010 Tobique–Mactaquac,Toss up,NewBrunswick,33,34,9,17,6,0,0
+24001 Abitibi–Baie-James–Nunavik–Eeyou,Toss up,Québec,30,9,22,5,2,32,0
+24002 Abitibi–Témiscamingue,Toss up,Québec,28,8,23,6,2,32,0
+24003 Ahuntsic-Cartierville,Safe LPC,Québec,49,7,15,7,1,21,0
+24004 Alfred-Pellan,Likely LPC,Québec,40,12,12,6,1,28,0
+24005 Argenteuil–La Petite-Nation,Leaning LPC,Québec,37,13,12,7,1,29,0
+24006 Avignon–La Mitis–Matane–Matapédia,Likely BQ,Québec,30,8,9,4,2,47,0
+24007 Beauce,Leaning PPC,Québec,12,32,3,3,36,13,0
+24008 Beauport–Limoilou,Toss up,Québec,27,26,7,6,6,28,0
+24009 Bécancour–Nicolet–Saurel,Safe BQ,Québec,18,12,9,6,1,53,0
+24010 Bellechasse–Les Etchemins–Lévis,Safe CPC,Québec,18,38,6,10,8,19,0
+24011 Beloeil–Chambly,Safe BQ,Québec,23,8,17,4,2,46,0
+24012 Berthier–Maskinongé,Toss up,Québec,14,9,36,2,1,37,0
+24013 Thérèse-De Blainville,Leaning BQ,Québec,33,12,9,5,1,38,0
+24014 Pierre-Boucher–Les Patriotes–Verchères,Safe BQ,Québec,22,9,10,7,1,51,0
+24015 Bourassa,Safe LPC,Québec,51,7,8,7,2,24,0
+24016 Brome–Missisquoi,Toss up,Québec,34,13,12,7,1,33,0
+24017 Brossard–Saint-Lambert,Safe LPC,Québec,45,12,13,6,2,20,0
+24018 Rimouski-Neigette–Témiscouata–Les Basques,Likely BQ,Québec,23,11,21,5,1,38,0
+24019 Charlesbourg–Haute-Saint-Charles,Likely CPC,Québec,21,36,10,6,7,20,0
+24020 Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Toss up,Québec,24,27,8,5,6,30,0
+24021 Châteauguay–Lacolle,Toss up,Québec,37,11,13,4,1,34,0
+24022 Chicoutimi–Le Fjord,Toss up,Québec,22,32,7,6,3,30,0
+24023 Compton–Stanstead,Toss up,Québec,33,13,14,5,1,33,0
+24024 Dorval–Lachine–LaSalle,Safe LPC,Québec,54,9,12,8,1,16,0
+24025 Drummond,Likely BQ,Québec,24,18,13,5,2,37,0
+24026 Gaspésie–Les Îles-de-la-Madeleine,Leaning BQ,Québec,34,8,13,3,1,39,0
+24027 Gatineau,Safe LPC,Québec,45,11,14,6,2,21,0
+24028 Hochelaga,Leaning BQ,Québec,30,6,17,5,2,39,0
+24029 Honoré-Mercier,Safe LPC,Québec,55,9,9,5,2,19,0
+24030 Hull–Aylmer,Safe LPC,Québec,44,11,19,6,2,17,0
+24031 Joliette,Safe BQ,Québec,20,11,11,7,1,48,0
+24032 Jonquière,Likely BQ,Québec,24,18,13,3,1,40,0
+24033 La Pointe-de-l'Île,Likely BQ,Québec,29,9,9,5,1,46,0
+24034 La Prairie,Toss up,Québec,33,12,11,7,2,35,0
+24035 Lac-Saint-Jean,Leaning BQ,Québec,25,28,8,4,2,33,0
+24036 Lac-Saint-Louis,Safe LPC,Québec,62,12,6,9,2,8,0
+24037 LaSalle–Émard–Verdun,Safe LPC,Québec,45,6,14,10,2,23,0
+24038 Laurentides–Labelle,Safe BQ,Québec,23,9,12,6,1,47,0
+24039 Laurier–Sainte-Marie,Toss up,Québec,33,4,22,6,1,32,0
+24040 Laval–Les Îles,Safe LPC,Québec,44,17,10,5,2,21,0
+24041 Longueuil–Charles-LeMoyne,Toss up,Québec,35,8,8,10,1,38,0
+24042 Lévis–Lotbinière,Likely CPC,Québec,21,38,7,5,9,20,0
+24043 Longueuil–Saint-Hubert,Leaning BQ,Québec,29,7,12,12,2,36,0
+24044 Louis-Hébert,Likely LPC,Québec,38,19,6,6,4,26,0
+24045 Louis-Saint-Laurent,Safe CPC,Québec,21,38,8,6,8,19,0
+24046 Manicouagan,Safe BQ,Québec,20,11,7,5,2,55,0
+24047 Mégantic–L'Érable,Leaning CPC,Québec,26,32,10,6,3,23,0
+24048 Mirabel,Likely BQ,Québec,26,10,10,6,2,46,0
+24049 Montarville,Toss up,Québec,33,10,12,8,1,35,0
+24050 Montcalm,Safe BQ,Québec,23,10,11,6,1,48,0
+24051 Montmagny–L'Islet–Kamouraska–Rivière-du-Loup,Leaning BQ,Québec,24,25,9,5,6,30,0
+24052 Mount Royal,Safe LPC,Québec,58,21,4,3,3,11,0
+24053 Notre-Dame-de-Grâce–Westmount,Safe LPC,Québec,57,11,12,10,2,8,0
+24054 Outremont,Likely LPC,Québec,40,8,22,12,2,15,0
+24055 Papineau,Safe LPC,Québec,52,5,14,7,1,20,0
+24056 Pierrefonds–Dollard,Safe LPC,Québec,59,14,8,4,3,10,0
+24057 Pontiac,Safe LPC,Québec,47,15,12,6,2,17,0
+24058 Portneuf–Jacques-Cartier,Likely CPC,Québec,21,35,10,4,9,20,0
+24059 Québec,Leaning LPC,Québec,36,17,8,6,3,29,0
+24060 Repentigny,Likely BQ,Québec,26,11,8,6,1,47,0
+24061 Richmond–Arthabaska,Toss up,Québec,20,32,11,5,3,30,0
+24062 Rivière-des-Mille-Îles,Toss up,Québec,31,12,14,6,2,34,0
+24063 Rivière-du-Nord,Safe BQ,Québec,20,11,11,8,1,49,0
+24064 Rosemont–La Petite-Patrie,Leaning NDP,Québec,22,3,36,4,2,31,0
+24065 Marc-Aurèle-Fortin,Leaning LPC,Québec,37,12,11,6,1,32,0
+24066 Saint-Hyacinthe–Bagot,Likely BQ,Québec,27,14,13,4,1,39,0
+24067 Saint-Jean,Toss up,Québec,33,13,10,6,2,36,0
+24068 Saint-Laurent,Safe LPC,Québec,60,13,8,7,2,10,0
+24069 Saint-Léonard–Saint-Michel,Safe LPC,Québec,55,14,8,5,1,14,0
+24070 Saint-Maurice–Champlain,Toss up,Québec,34,17,10,6,2,32,0
+24071 Salaberry–Suroît,Leaning BQ,Québec,30,11,17,4,1,35,0
+24072 Shefford,Toss up,Québec,34,13,10,7,2,33,0
+24073 Sherbrooke,Toss up,Québec,31,9,26,4,0,29,0
+24074 Vaudreuil–Soulanges,Likely LPC,Québec,41,13,11,7,2,26,0
+24075 Terrebonne,Safe BQ,Québec,24,12,9,6,1,48,0
+24076 Trois-Rivières,Toss up,Québec,25,29,13,2,1,28,0
+24077 Ville-Marie–Le Sud-Ouest–Île-des-Soeurs,Safe LPC,Québec,49,8,14,13,1,14,0
+24078 Vimy,Likely LPC,Québec,41,13,10,7,2,26,0
+35001 Ajax,Likely LPC,Ontario,46,34,12,4,2,0,0
+35002 Algoma–Manitoulin–Kapuskasing,Likely NDP,Ontario,28,21,44,5,2,0,0
+35003 Aurora–Oak Ridges–Richmond Hill,Leaning CPC,Ontario,38,43,12,4,2,0,0
+35004 Barrie–Innisfil,Leaning CPC,Ontario,32,39,15,11,2,0,0
+35005 Barrie–Springwater–Oro-Medonte,Leaning CPC,Ontario,32,37,13,14,2,0,0
+35006 Bay of Quinte,Likely LPC,Ontario,43,32,16,6,3,0,0
+35007 Beaches–East York,Leaning LPC,Ontario,43,16,34,6,1,0,0
+35008 Brampton Centre,Leaning LPC,Ontario,40,32,20,6,2,0,0
+35009 Brampton East,Likely LPC,Ontario,43,23,29,3,2,0,0
+35010 Brampton North,Leaning LPC,Ontario,39,31,21,5,3,0,0
+35011 Brampton South,Leaning LPC,Ontario,42,34,14,6,2,0,0
+35012 Brampton West,Likely LPC,Ontario,42,33,18,5,2,0,0
+35013 Brantford–Brant,Leaning CPC,Ontario,33,37,18,8,3,0,0
+35014 Bruce–Grey–Owen Sound,Likely CPC,Ontario,32,42,14,9,3,0,0
+35015 Burlington,Toss up,Ontario,40,39,9,7,3,0,0
+35016 Cambridge,Toss up,Ontario,35,35,18,9,3,0,0
+35017 Chatham-Kent–Leamington,Likely CPC,Ontario,30,45,19,3,2,0,0
+35018 Davenport,Toss up,Ontario,36,14,38,8,3,0,0
+35019 Don Valley East,Likely LPC,Ontario,49,28,14,8,2,0,0
+35020 Don Valley North,Likely LPC,Ontario,46,34,11,6,3,0,0
+35021 Don Valley West,Likely LPC,Ontario,50,34,8,5,3,0,0
+35022 Dufferin–Caledon,Leaning CPC,Ontario,33,38,15,10,3,0,0
+35023 Durham,Likely CPC,Ontario,33,42,15,7,3,0,0
+35024 Eglinton–Lawrence,Leaning LPC,Ontario,46,38,9,4,2,0,0
+35025 Elgin–Middlesex–London,Likely CPC,Ontario,25,43,20,9,2,0,0
+35026 Essex,Likely NDP,Ontario,19,32,44,2,2,0,0
+35027 Etobicoke Centre,Likely LPC,Ontario,49,33,10,4,3,0,0
+35028 Etobicoke–Lakeshore,Likely LPC,Ontario,48,29,14,7,2,0,0
+35029 Etobicoke North,Safe LPC,Ontario,52,21,13,3,12,0,0
+35030 Flamborough–Glanbrook,Leaning CPC,Ontario,32,39,18,9,2,0,0
+35031 Glengarry–Prescott–Russell,Likely LPC,Ontario,48,34,10,5,3,0,0
+35032 Guelph,Likely LPC,Ontario,42,25,12,20,1,0,0
+35033 Haldimand–Norfolk,Likely CPC,Ontario,30,40,18,9,3,0,0
+35034 Haliburton–Kawartha Lakes–Brock,Likely CPC,Ontario,24,39,23,10,3,0,0
+35035 Hamilton Centre,Likely NDP,Ontario,30,14,45,10,1,0,0
+35036 Hamilton East–Stoney Creek,Toss up,Ontario,35,21,36,6,2,0,0
+35037 Hamilton Mountain,Leaning NDP,Ontario,29,26,38,5,1,0,0
+35038 Hamilton West–Ancaster–Dundas,Likely LPC,Ontario,38,28,20,11,2,0,0
+35039 Hastings–Lennox and Addington,Toss up,Ontario,35,37,16,8,3,0,0
+35040 Huron–Bruce,Leaning CPC,Ontario,33,40,17,6,2,0,0
+35041 Kanata–Carleton,Leaning LPC,Ontario,42,38,10,8,2,0,0
+35042 Kenora,Toss up,Ontario,34,25,35,4,2,0,0
+35043 King–Vaughan,Toss up,Ontario,40,42,9,5,3,0,0
+35044 Kingston and the Islands,Safe LPC,Ontario,43,21,21,12,1,0,0
+35045 Kitchener Centre,Likely LPC,Ontario,41,24,18,14,2,0,0
+35046 Kitchener–Conestoga,Toss up,Ontario,36,39,13,8,3,0,0
+35047 Kitchener South–Hespeler,Toss up,Ontario,33,34,20,10,3,0,0
+35048 Lambton–Kent–Middlesex,Safe CPC,Ontario,24,43,22,9,3,0,0
+35049 Lanark–Frontenac–Kingston,Likely CPC,Ontario,27,42,18,10,3,0,0
+35050 Leeds-Grenville-Thousand Islands and Rideau Lakes,Likely CPC,Ontario,32,44,11,10,3,0,0
+35051 London–Fanshawe,Toss up,Ontario,32,23,34,8,2,0,0
+35052 London North Centre,Likely LPC,Ontario,41,28,18,10,2,0,0
+35053 London West,Leaning LPC,Ontario,37,32,19,9,3,0,0
+35054 Markham–Stouffville,Leaning LPC,Ontario,36,32,6,3,2,0,0
+35055 Markham–Thornhill,Likely LPC,Ontario,47,36,10,3,2,0,0
+35056 Markham–Unionville,Leaning CPC,Ontario,38,45,7,6,3,0,0
+35057 Milton,Toss up,Ontario,40,40,9,8,3,0,0
+35058 Mississauga Centre,Likely LPC,Ontario,46,32,13,6,2,0,0
+35059 Mississauga East–Cooksville,Likely LPC,Ontario,46,34,13,5,3,0,0
+35060 Mississauga–Erin Mills,Leaning LPC,Ontario,43,36,13,5,2,0,0
+35061 Mississauga–Lakeshore,Toss up,Ontario,40,40,10,7,2,0,0
+35062 Mississauga–Malton,Safe LPC,Ontario,48,27,18,5,2,0,0
+35063 Mississauga–Streetsville,Toss up,Ontario,39,39,12,6,3,0,0
+35064 Nepean,Likely LPC,Ontario,45,34,12,7,2,0,0
+35065 Newmarket–Aurora,Toss up,Ontario,38,40,12,7,2,0,0
+35066 Niagara Centre,Leaning LPC,Ontario,35,28,30,5,2,0,0
+35067 Niagara Falls,Leaning CPC,Ontario,31,36,22,6,3,0,0
+35068 Niagara West,Likely CPC,Ontario,31,45,13,7,4,0,0
+35069 Nickel Belt,Leaning NDP,Ontario,36,17,40,6,1,0,0
+35070 Nipissing–Timiskaming,Safe LPC,Ontario,44,24,17,5,10,0,0
+35071 Northumberland–Peterborough South,Toss up,Ontario,35,37,16,8,2,0,0
+35072 Oakville,Leaning LPC,Ontario,45,37,7,6,3,0,0
+35073 Oakville North–Burlington,Toss up,Ontario,41,41,10,5,2,0,0
+35074 Oshawa,Leaning CPC,Ontario,30,38,24,5,2,0,0
+35075 Ottawa Centre,Likely LPC,Ontario,40,20,30,8,1,0,0
+35076 Orléans,Likely LPC,Ontario,47,32,12,6,2,0,0
+35077 Ottawa South,Safe LPC,Ontario,48,25,16,9,2,0,0
+35078 Ottawa–Vanier,Likely LPC,Ontario,41,17,30,9,2,0,0
+35079 Ottawa West–Nepean,Likely LPC,Ontario,46,29,14,8,2,0,0
+35080 Oxford,Likely CPC,Ontario,26,40,21,10,3,0,0
+35081 Parkdale–High Park,Toss up,Ontario,37,14,39,7,1,0,0
+35082 Parry Sound–Muskoka,Leaning CPC,Ontario,30,37,11,19,3,0,0
+35083 Perth–Wellington,Leaning CPC,Ontario,31,39,19,7,3,0,0
+35084 Peterborough–Kawartha,Toss up,Ontario,35,34,22,6,3,0,0
+35085 Pickering–Uxbridge,Likely LPC,Ontario,44,32,10,4,10,0,0
+35086 Renfrew–Nipissing–Pembroke,Likely CPC,Ontario,32,44,15,7,3,0,0
+35087 Richmond Hill,Toss up,Ontario,40,40,12,5,2,0,0
+35088 Carleton,Likely CPC,Ontario,34,48,6,8,3,0,0
+35089 St. Catharines,Toss up,Ontario,39,35,16,7,2,0,0
+35090 Toronto–St. Paul's,Safe LPC,Ontario,48,24,17,8,2,0,0
+35091 Sarnia–Lambton,Toss up,Ontario,20,36,35,7,2,0,0
+35092 Sault Ste. Marie,Leaning LPC,Ontario,36,29,27,5,2,0,0
+35093 Scarborough–Agincourt,Leaning LPC,Ontario,44,38,10,5,3,0,0
+35094 Scarborough Centre,Likely LPC,Ontario,46,27,18,6,3,0,0
+35095 Scarborough–Guildwood,Safe LPC,Ontario,52,26,15,4,2,0,0
+35096 Scarborough North,Likely LPC,Ontario,43,25,26,4,1,0,0
+35097 Scarborough–Rouge Park,Safe LPC,Ontario,52,26,14,6,2,0,0
+35098 Scarborough Southwest,Likely LPC,Ontario,46,19,27,7,1,0,0
+35099 Simcoe–Grey,Likely CPC,Ontario,31,41,12,12,3,0,0
+35100 Simcoe North,Toss up,Ontario,34,38,13,12,3,0,0
+35101 Spadina–Fort York,Likely LPC,Ontario,45,16,31,5,2,0,0
+35102 Stormont–Dundas–South Glengarry,Leaning CPC,Ontario,35,44,12,7,2,0,0
+35103 Sudbury,Leaning LPC,Ontario,37,20,33,8,1,0,0
+35104 Thornhill,Likely CPC,Ontario,36,51,8,5,0,0,0
+35105 Thunder Bay–Rainy River,Toss up,Ontario,33,18,34,13,1,0,0
+35106 Thunder Bay–Superior North,Likely LPC,Ontario,35,18,26,19,1,0,0
+35107 Timmins–James Bay,Likely NDP,Ontario,27,18,50,3,1,0,0
+35108 Toronto Centre,Likely LPC,Ontario,46,14,31,7,1,0,0
+35109 Toronto–Danforth,Leaning NDP,Ontario,36,11,40,12,1,0,0
+35110 University–Rosedale,Likely LPC,Ontario,43,17,31,7,1,0,0
+35111 Vaughan–Woodbridge,Toss up,Ontario,43,42,8,4,2,0,0
+35112 Waterloo,Likely LPC,Ontario,41,29,19,8,2,0,0
+35113 Wellington–Halton Hills,Likely CPC,Ontario,31,44,11,11,2,0,0
+35114 Whitby,Toss up,Ontario,41,40,10,5,4,0,0
+35115 Willowdale,Likely LPC,Ontario,48,33,10,6,2,0,0
+35116 Windsor–Tecumseh,Likely NDP,Ontario,28,27,41,3,1,0,0
+35117 Windsor West,Toss up,Ontario,36,21,38,3,2,0,0
+35118 York Centre,Leaning LPC,Ontario,46,38,10,3,2,0,0
+35119 York–Simcoe,Likely CPC,Ontario,36,46,9,5,3,0,0
+35120 York South–Weston,Leaning LPC,Ontario,40,18,35,5,1,0,0
+35121 Humber River–Black Creek,Safe LPC,Ontario,53,23,16,6,2,0,0
+46001 Brandon–Souris,Safe CPC,Manitoba,20,60,6,11,4,0,0
+46002 Charleswood–St. James–Assiniboia–Headingley,Leaning CPC,Manitoba,34,41,6,3,16,0,0
+46003 Churchill–Keewatinook Aski,Likely NDP,Manitoba,30,20,44,4,1,0,0
+46004 Dauphin–Swan River–Neepawa,Safe CPC,Manitoba,17,57,14,9,3,0,0
+46005 Elmwood–Transcona,Leaning CPC,Manitoba,20,39,32,5,3,0,0
+46006 Kildonan–St. Paul,Likely CPC,Manitoba,29,48,15,4,3,0,0
+46007 Portage–Lisgar,Safe CPC,Manitoba,15,63,6,10,4,0,0
+46008 Provencher,Safe CPC,Manitoba,21,59,5,10,4,0,0
+46009 Saint Boniface–Saint Vital,Toss up,Manitoba,37,36,18,6,2,0,0
+46010 Selkirk–Interlake–Eastman,Safe CPC,Manitoba,18,58,12,8,4,0,0
+46011 Winnipeg Centre,Leaning LPC,Manitoba,38,18,33,8,2,0,0
+46012 Winnipeg North,Likely LPC,Manitoba,42,29,21,5,2,0,0
+46013 Winnipeg South,Toss up,Manitoba,41,44,6,5,3,0,0
+46014 Winnipeg South Centre,Toss up,Manitoba,42,39,11,6,2,0,0
+47001 Battlefords–Lloydminster,Safe CPC,Saskatchewan,8,64,19,3,6,0,0
+47002 Cypress Hills–Grasslands,Safe CPC,Saskatchewan,9,65,16,5,5,0,0
+47003 Desnethé–Missinippi–Churchill River,Toss up,Saskatchewan,20,38,37,2,3,0,0
+47004 Carlton Trail–Eagle Creek,Safe CPC,Saskatchewan,9,62,21,4,4,0,0
+47005 Moose Jaw–Lake Centre–Lanigan,Safe CPC,Saskatchewan,10,56,25,3,4,0,0
+47006 Prince Albert,Safe CPC,Saskatchewan,11,54,28,3,3,0,0
+47007 Regina–Lewvan,Leaning CPC,Saskatchewan,16,42,37,3,2,0,0
+47008 Regina–Qu'Appelle,Safe CPC,Saskatchewan,11,55,28,3,3,0,0
+47009 Regina–Wascana,Toss up,Saskatchewan,42,40,12,4,3,0,0
+47010 Saskatoon–Grasswood,Likely CPC,Saskatchewan,14,52,29,3,3,0,0
+47011 Saskatoon–University,Likely CPC,Saskatchewan,13,51,30,2,2,0,0
+47012 Saskatoon West,Toss up,Saskatchewan,15,38,41,3,2,0,0
+47013 Souris–Moose Mountain,Safe CPC,Saskatchewan,8,65,16,4,6,0,0
+47014 Yorkton–Melville,Safe CPC,Saskatchewan,10,60,21,4,5,0,0
+48001 Banff–Airdrie,Safe CPC,Alberta,17,64,9,6,3,0,0
+48002 Battle River–Crowfoot,Safe CPC,Alberta,6,76,9,4,5,0,0
+48003 Bow River,Safe CPC,Alberta,10,73,9,3,5,0,0
+48004 Calgary Centre,Likely CPC,Alberta,32,54,8,3,2,0,0
+48005 Calgary Confederation,Safe CPC,Alberta,28,55,10,4,3,0,0
+48006 Calgary Forest Lawn,Safe CPC,Alberta,23,56,13,4,2,0,0
+48007 Calgary Heritage,Safe CPC,Alberta,16,67,8,3,4,0,0
+48008 Calgary Midnapore,Safe CPC,Alberta,13,70,8,4,5,0,0
+48009 Calgary Nose Hill,Safe CPC,Alberta,16,63,13,4,3,0,0
+48010 Calgary Rocky Ridge,Safe CPC,Alberta,20,64,8,3,3,0,0
+48011 Calgary Shepard,Safe CPC,Alberta,16,65,10,4,4,0,0
+48012 Calgary Signal Hill,Safe CPC,Alberta,20,64,7,4,3,0,0
+48013 Calgary Skyview,Likely CPC,Alberta,34,47,13,3,2,0,0
+48014 Edmonton Centre,Likely CPC,Alberta,26,39,29,4,2,0,0
+48015 Edmonton Griesbach,Likely CPC,Alberta,16,48,28,3,4,0,0
+48016 Edmonton Manning,Likely CPC,Alberta,16,50,28,3,2,0,0
+48017 Edmonton Mill Woods,Likely CPC,Alberta,30,45,18,5,2,0,0
+48018 Edmonton Riverbend,Safe CPC,Alberta,16,57,21,3,2,0,0
+48019 Edmonton Strathcona,Toss up,Alberta,23,36,38,1,1,0,0
+48020 Edmonton West,Safe CPC,Alberta,19,58,17,3,2,0,0
+48021 Edmonton–Wetaskiwin,Safe CPC,Alberta,13,64,14,4,4,0,0
+48022 Foothills,Safe CPC,Alberta,9,69,10,6,5,0,0
+48023 Fort McMurray–Cold Lake,Safe CPC,Alberta,18,64,12,2,4,0,0
+48024 Grande Prairie–Mackenzie,Safe CPC,Alberta,10,67,12,6,4,0,0
+48025 Lakeland,Safe CPC,Alberta,9,66,16,4,4,0,0
+48026 Lethbridge,Safe CPC,Alberta,10,58,26,4,2,0,0
+48027 Medicine Hat–Cardston–Warner,Safe CPC,Alberta,16,66,12,2,4,0,0
+48028 Peace River–Westlock,Safe CPC,Alberta,9,63,20,4,4,0,0
+48029 Red Deer–Mountain View,Safe CPC,Alberta,9,68,13,5,4,0,0
+48030 Red Deer–Lacombe,Safe CPC,Alberta,9,63,16,4,7,0,0
+48031 St. Albert–Edmonton,Safe CPC,Alberta,20,51,21,3,3,0,0
+48032 Sherwood Park–Fort Saskatchewan,Safe CPC,Alberta,13,64,15,4,4,0,0
+48033 Sturgeon River–Parkland,Safe CPC,Alberta,9,67,15,4,4,0,0
+48034 Yellowhead,Safe CPC,Alberta,10,66,14,5,4,0,0
+59001 Abbotsford,Safe CPC,BC,23,47,13,13,4,0,0
+59002 Burnaby North–Seymour,Toss up,BC,31,15,32,14,8,0,0
+59003 Burnaby South,Likely NDP,BC,24,24,44,4,4,0,0
+59004 Cariboo–Prince George,Likely CPC,BC,23,38,26,10,3,0,0
+59005 Central Okanagan–Similkameen–Nicola,Likely CPC,BC,27,40,19,10,3,0,0
+59006 Chilliwack–Hope,Likely CPC,BC,24,42,18,12,4,0,0
+59007 Cloverdale–Langley City,Toss up,BC,35,35,16,10,3,0,0
+59008 Coquitlam–Port Coquitlam,Toss up,BC,29,30,28,9,3,0,0
+59009 Courtenay–Alberni,Likely NDP,BC,15,26,39,19,0,0,0
+59010 Cowichan–Malahat–Langford,Likely NDP,BC,18,28,38,14,2,0,0
+59011 Delta,Toss up,BC,38,34,17,8,2,0,0
+59012 Fleetwood–Port Kells,Toss up,BC,36,37,17,6,3,0,0
+59013 Kamloops–Thompson–Cariboo,Likely CPC,BC,22,36,28,10,4,0,0
+59014 Kelowna–Lake Country,Leaning CPC,BC,34,40,14,8,3,0,0
+59015 Kootenay–Columbia,Toss up,BC,14,35,36,11,3,0,0
+59016 Langley–Aldergrove,Likely CPC,BC,28,44,13,10,4,0,0
+59017 Mission–Matsqui–Fraser Canyon,Likely CPC,BC,27,35,20,14,3,0,0
+59018 Nanaimo–Ladysmith,Toss up,BC,17,21,29,30,2,0,0
+59019 New Westminster–Burnaby,Safe NDP,BC,21,21,44,12,2,0,0
+59020 North Okanagan–Shuswap,Likely CPC,BC,20,36,28,13,2,0,0
+59021 North Vancouver,Likely LPC,BC,40,28,8,21,2,0,0
+59022 Pitt Meadows–Maple Ridge,Toss up,BC,24,32,30,11,2,0,0
+59023 Port Moody–Coquitlam,Likely NDP,BC,24,28,39,6,3,0,0
+59024 Prince George–Peace River–Northern Rockies,Safe CPC,BC,18,47,16,14,4,0,0
+59025 Richmond Centre,Likely CPC,BC,33,44,12,6,3,0,0
+59026 Esquimalt–Saanich–Sooke,Leaning NDP,BC,20,24,30,24,2,0,0
+59027 Saanich–Gulf Islands,Safe GPC,BC,14,19,11,54,2,0,0
+59028 Skeena–Bulkley Valley,Likely NDP,BC,13,26,47,10,3,0,0
+59029 South Okanagan–West Kootenay,Leaning NDP,BC,19,29,38,11,3,0,0
+59030 South Surrey–White Rock,Leaning CPC,BC,36,42,8,9,4,0,0
+59031 Steveston–Richmond East,Toss up,BC,36,38,13,9,4,0,0
+59032 Surrey Centre,Toss up,BC,34,21,33,8,2,0,0
+59033 Surrey–Newton,Likely LPC,BC,43,19,30,6,2,0,0
+59034 Vancouver Centre,Safe LPC,BC,42,19,22,15,2,0,0
+59035 Vancouver East,Safe NDP,BC,17,14,55,12,2,0,0
+59036 Vancouver Granville,Toss up,BC,29,20,12,4,2,0,0
+59037 North Island–Powell River,Leaning NDP,BC,18,29,37,13,3,0,0
+59038 Vancouver Kingsway,Safe NDP,BC,20,20,48,8,2,0,0
+59039 Vancouver Quadra,Likely LPC,BC,44,28,13,11,3,0,0
+59040 Vancouver South,Toss up,BC,39,35,16,6,4,0,0
+59041 Victoria,Leaning NDP,BC,17,16,35,30,1,0,0
+59042 West Vancouver–Sunshine Coast–Sea to Sky Country,Likely LPC,BC,40,26,10,22,2,0,0
+60001 Yukon,Toss up,Yukon,30,26,21,21,1,0,0
+61001 Northwest Territories,Toss up,NWT,27,23,26,22,1,0,0
+62001 Nunavut,Toss up,Nunavut,29,25,26,19,0,0,0
